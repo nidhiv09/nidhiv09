@@ -1,6 +1,6 @@
 Hi there! 👋  
 
-I'm Nidhi Vasudev, a pre final-year AI & ML Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative Ai. I am dedicated to leveraging cutting-edge technologies to create innovative solutions that can drive meaningful change. 🚀  
+I'm Nidhi Vasudev, a pre final-year AI & ML Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative AI. I am dedicated to leveraging cutting-edge technologies to create innovative solutions that can drive meaningful change. 🚀  
 
 
 
