@@ -13,9 +13,12 @@ As an AI & ML enthusiast, I've been refining my skills in various programming la
 Skills:  
 
  Programming: C, Python , Java
- AI/ML Frameworks: TensorFlow, PyTorch, OpenCV, Scikit-learn  
- Cybersecurity: Neo4j, MITRE ATT&CK, PenGym, NASIM  
- Cloud & Tools: Google Colab, VS Code, GitHub, Flask, React.js  
+ 
+ AI/ML Frameworks: TensorFlow, PyTorch, OpenCV, Scikit-learn
+ 
+ Cybersecurity: Neo4j, MITRE ATT&CK, PenGym, NASIM
+ 
+ Cloud & Tools: Google Colab, VS Code, GitHub, Flask 
 
 
 
