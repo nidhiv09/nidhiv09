@@ -33,7 +33,7 @@ Here are some impactful projects I’ve worked on:
      Key Features:  
        Neo4j Knowledge Graph (CVE, CWE, CAPEC, ATT&CK)  
        RL-Based Intrusion Detection (NASIM, PenGym)  
-       Graph-Based Threat Analysis
+       Graph-Based Threat Analysis  
        Tech Stack: Python, TensorFlow, PyTorch, Neo4j, DQN, NASIM, PenGym  
 
 
