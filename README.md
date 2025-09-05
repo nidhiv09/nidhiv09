@@ -1,6 +1,6 @@
 Hi there! 👋  
 
-I'm Nidhi Vasudev, a pre final-year AI & ML Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative AI. I am dedicated to leveraging cutting-edge technologies to create innovative solutions that can drive meaningful change. 🚀  
+I'm Nidhi Vasudev, a final-year AI & ML Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, Generative AI. I am dedicated to leveraging cutting-edge technologies to create innovative solutions that can drive meaningful change. 🚀  
 
 
 
@@ -12,13 +12,13 @@ As an AI & ML enthusiast, I've been refining my skills in various programming la
 
 Skills:  
 
- Programming: C, Python , Java
+ Programming: Python , Java , C , HTML , CSS , JavaScript
  
- AI/ML Frameworks: TensorFlow, PyTorch, OpenCV, Scikit-learn
+ AI/ML Frameworks: Machine Learning, TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn
  
  Cybersecurity: Neo4j, MITRE ATT&CK, PenGym, NASIM
  
- Cloud & Tools: Google Colab, VS Code, GitHub, Flask 
+ Cloud & Tools: Google Colab, VS Code, GitHub, Flask, Streamlit 
 
 
 
@@ -47,7 +47,14 @@ Here are some impactful projects I’ve worked on:
        Automated Image Processing & Feature Extraction 
        Solves 10+ Computer Vision Challenges 
        Tech Stack: Python, OpenCV, TensorFlow, Google Colab  
- 
+
+4. Diabetes Prediction :
+     Description: A Machine Learning-based system that predicts the likelihood of diabetes using patient medical data with an interactive Streamlit web application.
+     Key Features:
+       Trained on multiple ML models (Naive Bayes, KNN, Decision Tree, Random Forest, XGBoost) with evaluation using accuracy, precision, recall, and F1 score.
+       Built with Streamlit to allow real-time diabetes prediction from patient medical inputs.
+       Displays prediction confidence levels with probabilities for diabetic vs. non-diabetic outcomes.
+       Tech Stack: Python, Pamdas, Numpy, Scikit-learn, XG Boost, Streamlit
 
  Get in Touch!  
 
