@@ -40,13 +40,13 @@ Here are some impactful projects I’ve worked on:
        Tech Stack: Python, TensorFlow, PyTorch, Neo4j, DQN, NASIM, PenGym  
 
 
-3.  Computer Vision AI System :  
-     Description: A vision-based AI system implementing image enhancement, segmentation, and feature extraction.  
+3.  Computer Vision AI System : 
+     Description: A vision-based AI system implementing image enhancement, segmentation, and feature extraction. 
      Key Features:  
-       Deep Learning Models for Object Recognition  
+       Deep Learning Models for Object Recognition 
        Automated Image Processing & Feature Extraction 
        Solves 10+ Computer Vision Challenges
-       Tech Stack: Python, OpenCV, TensorFlow, Google Colab
+       Tech Stack: Python, OpenCV, TensorFlow, Google Colab 
     
 
 4.  Diabetes Prediction System :  
