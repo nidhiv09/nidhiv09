@@ -49,13 +49,13 @@ Here are some impactful projects I’ve worked on:
        Tech Stack: Python, OpenCV, TensorFlow, Google Colab 
     
 
-4.  Diabetes Prediction System :  
+4.  Diabetes Prediction System : 
      Description: A Machine Learning-based system that predicts the likelihood of diabetes using patient medical data with an interactive Streamlit web application.  
      Key Features:  
-       Trained on multiple ML models (Naive Bayes, KNN, Decision Tree, Random Forest, XGBoost) with evaluation using accuracy, precision, recall, and F1 score
-       Built with Streamlit to allow real-time diabetes prediction from patient medical inputs 
-       Displays prediction confidence levels with probabilities for diabetic vs. non-diabetic outcomes
-       Tech Stack: Python, Pamdas, Numpy, Scikit-learn, XG Boost, Streamlit 
+       Trained on multiple ML models (Naive Bayes, KNN, Decision Tree, Random Forest, XGBoost) with evaluation using accuracy, precision, recall, and F1 score 
+       Built with Streamlit to allow real-time diabetes prediction from patient medical inputs  
+       Displays prediction confidence levels with probabilities for diabetic vs. non-diabetic outcomes 
+       Tech Stack: Python, Pamdas, Numpy, Scikit-learn, XG Boost, Streamlit  
 
 
  Get in Touch!  
