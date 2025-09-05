@@ -45,8 +45,9 @@ Here are some impactful projects I’ve worked on:
      Key Features:  
        Deep Learning Models for Object Recognition  
        Automated Image Processing & Feature Extraction 
-       Solves 10+ Computer Vision Challenges 
+       Solves 10+ Computer Vision Challenges
        Tech Stack: Python, OpenCV, TensorFlow, Google Colab
+    
 
 4.  Diabetes Prediction System :  
      Description: A Machine Learning-based system that predicts the likelihood of diabetes using patient medical data with an interactive Streamlit web application.  
